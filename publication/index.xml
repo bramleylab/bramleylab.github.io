@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Bramley Computational Cognitive Science Lab</title>
+    <link>bramleylab.github.io/publication/</link>
+    <description>Recent content in Publications on Bramley Computational Cognitive Science Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; Neil Bramley, 2018 </copyright>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="bramleylab.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A causal model approach to dynamic control</title>
+      <link>bramleylab.github.io/publication/2018-01-01_davis2018control/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>bramleylab.github.io/publication/2018-01-01_davis2018control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Causal structure learning with continuous variables in continuous time</title>
+      <link>bramleylab.github.io/publication/2018-01-01_davis2018continuous/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>bramleylab.github.io/publication/2018-01-01_davis2018continuous/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Children&#39;s causal interventions combine discrimination and confirmation</title>
+      <link>bramleylab.github.io/publication/2018-01-01_meng2018children/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>bramleylab.github.io/publication/2018-01-01_meng2018children/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grounding compositional hypothesis generation in specific instances</title>
+      <link>bramleylab.github.io/publication/2018-01-01_bramley2018zendo/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>bramleylab.github.io/publication/2018-01-01_bramley2018zendo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intervening in time</title>
+      <link>bramleylab.github.io/publication/2018-01-01_bramley2018unifying/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>bramleylab.github.io/publication/2018-01-01_bramley2018unifying/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intuitive experimentation in the physical world</title>
+      <link>bramleylab.github.io/publication/2018-01-01_bramley2018physics/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>bramleylab.github.io/publication/2018-01-01_bramley2018physics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time in causal structure learning</title>
+      <link>bramleylab.github.io/publication/2018-01-01_bramley2018time/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>bramleylab.github.io/publication/2018-01-01_bramley2018time/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beliefs about sparsity affect causal experimentation</title>
+      <link>bramleylab.github.io/publication/2017-01-01_coenen2017beliefs/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>bramleylab.github.io/publication/2017-01-01_coenen2017beliefs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Causal learning from interventions and dynamics in continuous time</title>
+      <link>bramleylab.github.io/publication/2017-01-01_bramley2017dynamic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>bramleylab.github.io/publication/2017-01-01_bramley2017dynamic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constructing the world: Active causal learning in cognition</title>
+      <link>bramleylab.github.io/publication/2017-01-01_bramley2017phdthesis/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>bramleylab.github.io/publication/2017-01-01_bramley2017phdthesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formalizing Neurath&#39;s ship: Approximate algorithms for online causal learning</title>
+      <link>bramleylab.github.io/publication/2017-01-01_bramley2017neurath/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>bramleylab.github.io/publication/2017-01-01_bramley2017neurath/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strategic exploration in human adaptive control</title>
+      <link>bramleylab.github.io/publication/2017-01-01_schulz2017control/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>bramleylab.github.io/publication/2017-01-01_schulz2017control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Children&#39;s Use of Interventions to Learn Causal Structure</title>
+      <link>bramleylab.github.io/publication/2016-01-01_mccormack2016children/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>bramleylab.github.io/publication/2016-01-01_mccormack2016children/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Natural science: Active learning in dynamic physical microworlds</title>
+      <link>bramleylab.github.io/publication/2016-01-01_bramley2016natural/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>bramleylab.github.io/publication/2016-01-01_bramley2016natural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conservative forgetful scholars: How people learn causal structure through interventions</title>
+      <link>bramleylab.github.io/publication/2015-01-01_bramley2015fcs/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>bramleylab.github.io/publication/2015-01-01_bramley2015fcs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Staying afloat on Neurath&#39;s boat: Heuristics for sequential causal learning</title>
+      <link>bramleylab.github.io/publication/2015-01-01_bramley2015staying/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>bramleylab.github.io/publication/2015-01-01_bramley2015staying/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Book Review: Future-Minded: The Psychology of Agency and Control by Magda Osman</title>
+      <link>bramleylab.github.io/publication/2014-01-01_bramley2014review/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>bramleylab.github.io/publication/2014-01-01_bramley2014review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The order of things: Inferring causal structure from temporal patterns</title>
+      <link>bramleylab.github.io/publication/2014-01-01_bramley2014order/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>bramleylab.github.io/publication/2014-01-01_bramley2014order/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What should causal learners value?</title>
+      <link>bramleylab.github.io/publication/2014-01-01_bramley2014should/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>bramleylab.github.io/publication/2014-01-01_bramley2014should/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mechanisms of active causal learning</title>
+      <link>bramleylab.github.io/publication/2013-01-01_bramley2013mechanisms/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>bramleylab.github.io/publication/2013-01-01_bramley2013mechanisms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beliefs about sparsity affect causal experimentation</title>
+      <link>bramleylab.github.io/publication/in-revision-01-01_coenen2017sparsityjournal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>bramleylab.github.io/publication/in-revision-01-01_coenen2017sparsityjournal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the Landscape of Human Curiosity</title>
+      <link>bramleylab.github.io/publication/in-prep-01-01_schulz2018landscape/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>bramleylab.github.io/publication/in-prep-01-01_schulz2018landscape/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interventions in dynamic systems</title>
+      <link>bramleylab.github.io/publication/in-prep-01-01_bramley2018dynamic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>bramleylab.github.io/publication/in-prep-01-01_bramley2018dynamic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling engagement via the temporal dynamics of belief, surprise and suspense</title>
+      <link>bramleylab.github.io/publication/in-prep-01-01_li2018suspense/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>bramleylab.github.io/publication/in-prep-01-01_li2018suspense/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
