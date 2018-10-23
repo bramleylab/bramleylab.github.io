@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Demos on Bramley Computational Cognitive Science Lab</title>
-    <link>bramleylab.github.io/demo/</link>
+    <link>https://bramleylab.github.io/demo/</link>
     <description>Recent content in Demos on Bramley Computational Cognitive Science Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; Neil Bramley, 2018 </copyright>
     
-	<atom:link href="bramleylab.github.io/demo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bramleylab.github.io/demo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>bramleylab.github.io/demo/all/</link>
+      <link>https://bramleylab.github.io/demo/all/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>bramleylab.github.io/demo/all/</guid>
+      <guid>https://bramleylab.github.io/demo/all/</guid>
       <description>Causal learning from contingencies demo, TODO just put the neilbramely.github.io/ ../time_intervene/demo paper
 Causal learning about events in time demo, create your own, paper
 Causal learning about continuous variables in time demo, link to paper
@@ -26,10 +26,10 @@ Hypothesis generation demo, link to paper</description>
     
     <item>
       <title></title>
-      <link>bramleylab.github.io/demo/contingencies/contingencies1/</link>
+      <link>https://bramleylab.github.io/demo/contingencies/contingencies1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>bramleylab.github.io/demo/contingencies/contingencies1/</guid>
+      <guid>https://bramleylab.github.io/demo/contingencies/contingencies1/</guid>
       <description>## Causal learning from contingencies
 
 [link to demo](demo/contingencies1), 
@@ -59,10 +59,10 @@ Hypothesis generation demo, link to paper</description>
     
     <item>
       <title></title>
-      <link>bramleylab.github.io/demo/time_intervene/demoorig/</link>
+      <link>https://bramleylab.github.io/demo/time_intervene/demoorig/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>bramleylab.github.io/demo/time_intervene/demoorig/</guid>
+      <guid>https://bramleylab.github.io/demo/time_intervene/demoorig/</guid>
       <description>Start  Stop  Pause  Resume   Select settings or have them assigned randomly
  Select settings Condition
 Passive
@@ -85,10 +85,10 @@ Random
     
     <item>
       <title></title>
-      <link>bramleylab.github.io/demo/time_intervene/demo/</link>
+      <link>https://bramleylab.github.io/demo/time_intervene/demo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>bramleylab.github.io/demo/time_intervene/demo/</guid>
+      <guid>https://bramleylab.github.io/demo/time_intervene/demo/</guid>
       <description>Start  Stop  Pause  Resume   Select settings or have them assigned randomly
  Select settings Condition
 Passive
@@ -112,10 +112,10 @@ Random
     
     <item>
       <title></title>
-      <link>bramleylab.github.io/demo/time_intervene/game/</link>
+      <link>https://bramleylab.github.io/demo/time_intervene/game/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>bramleylab.github.io/demo/time_intervene/game/</guid>
+      <guid>https://bramleylab.github.io/demo/time_intervene/game/</guid>
       <description>         </description>
     </item>
     
