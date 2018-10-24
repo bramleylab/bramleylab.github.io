@@ -5,7 +5,7 @@
     <link>https://bramleylab.github.io/demo/</link>
     <description>Recent content in Demos on Bramley Computational Cognitive Science Lab</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>&amp;copy; Neil Bramley, 2018 </copyright>
+    <copyright>&amp;copy; Neil Bramley, 2018. Banner photo credit Eric Schulz.</copyright>
     
 	<atom:link href="https://bramleylab.github.io/demo/index.xml" rel="self" type="application/rss+xml" />
     
@@ -22,101 +22,6 @@ Causal learning about continuous variables in time demo, link to paper
 Learning about physical objects demo, link to paper
 Control demo, link to paper
 Hypothesis generation demo, link to paper</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://bramleylab.github.io/demo/contingencies/contingencies1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://bramleylab.github.io/demo/contingencies/contingencies1/</guid>
-      <description>## Causal learning from contingencies
-
-[link to demo](demo/contingencies1), 
-[link to paper](link)
-
-## Causal learning about events in time
-
-[link to demo](link), 
-[link to paper](link)
-
-
-## Causal learning about continuous variables in time
-
-[link to demo](link), 
-[link to paper](link)
-
-
-## Learning about physical objects
-
-[link to demo](link), 
-[link to paper](link)
-
-## Control
-
-[link to demo](link),</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://bramleylab.github.io/demo/time_intervene/demoorig/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://bramleylab.github.io/demo/time_intervene/demoorig/</guid>
-      <description>Start  Stop  Pause  Resume   Select settings or have them assigned randomly
- Select settings Condition
-Passive
-Active
- Mode
-Practice
-Test
- Background
-None
-All
-Roots
- Node location mode
-Even
-Random
- Number of nodes:
- Density of network (0, 1):
- Timeout (seconds):
- Background level(N events per node per second):</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://bramleylab.github.io/demo/time_intervene/demo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://bramleylab.github.io/demo/time_intervene/demo/</guid>
-      <description>Start  Stop  Pause  Resume   Select settings or have them assigned randomly
- Select settings Condition
-Passive
-Active
- Mode
-Practice
-Test
- Background
-None
-All
-Roots
- Node location mode
-Even
-Random
- Number of nodes:
- Density of network (0, 1):
- Timeout (seconds):
- Background level(N events per node per second):
- Contingency (0, 1):</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://bramleylab.github.io/demo/time_intervene/game/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://bramleylab.github.io/demo/time_intervene/game/</guid>
-      <description>         </description>
     </item>
     
   </channel>

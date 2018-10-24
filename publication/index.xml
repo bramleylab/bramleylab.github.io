@@ -5,7 +5,7 @@
     <link>https://bramleylab.github.io/publication/</link>
     <description>Recent content in Publications on Bramley Computational Cognitive Science Lab</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>&amp;copy; Neil Bramley, 2018 </copyright>
+    <copyright>&amp;copy; Neil Bramley, 2018. Banner photo credit Eric Schulz.</copyright>
     <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://bramleylab.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
@@ -192,15 +192,6 @@
     </item>
     
     <item>
-      <title>Beliefs about sparsity affect causal experimentation</title>
-      <link>https://bramleylab.github.io/publication/in-revision-01-01_coenen2017sparsityjournal/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://bramleylab.github.io/publication/in-revision-01-01_coenen2017sparsityjournal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Exploring the Landscape of Human Curiosity</title>
       <link>https://bramleylab.github.io/publication/in-prep-01-01_schulz2018landscape/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -224,6 +215,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://bramleylab.github.io/publication/in-prep-01-01_li2018suspense/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing one or multiple: Beliefs about sparsity affect causal experimentation</title>
+      <link>https://bramleylab.github.io/publication/in-revision-01-01_coenen2017sparsityjournal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bramleylab.github.io/publication/in-revision-01-01_coenen2017sparsityjournal/</guid>
       <description></description>
     </item>
     
