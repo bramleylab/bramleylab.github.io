@@ -274,7 +274,7 @@
   </url>
   
   <url>
-    <loc>https://bramleylab.github.io/demo/all/</loc>
+    <loc>https://bramleylab.github.io/demo/</loc>
   </url>
   
   <url>
@@ -283,10 +283,6 @@
   
   <url>
     <loc>https://bramleylab.github.io/research/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bramleylab.github.io/research/all/</loc>
   </url>
   
   <url>
@@ -302,11 +298,6 @@
   
   <url>
     <loc>https://bramleylab.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bramleylab.github.io/demo/</loc>
     <priority>0</priority>
   </url>
   
@@ -331,11 +322,6 @@
   <url>
     <loc>https://bramleylab.github.io/publication/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bramleylab.github.io/research/</loc>
     <priority>0</priority>
   </url>
   

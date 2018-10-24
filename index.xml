@@ -575,16 +575,15 @@ Ore fame mons Olympi tantae stringit columbas proxima habebat, longius alta non.
     
     <item>
       <title></title>
-      <link>https://bramleylab.github.io/demo/all/</link>
+      <link>https://bramleylab.github.io/demo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bramleylab.github.io/demo/all/</guid>
-      <description>Causal learning from contingencies demo, TODO just put the neilbramely.github.io/ ../time_intervene/demo paper
-Causal learning about events in time demo, create your own, paper
-Causal learning about continuous variables in time demo, link to paper
-Learning about physical objects demo, link to paper
-Control demo, link to paper
-Hypothesis generation demo, link to paper</description>
+      <guid>https://bramleylab.github.io/demo/</guid>
+      <description>Learning about physical objects These tasks require the learner to uncover the physical properties of objects in a naturalistic simulated environment by interacting with them in real time.
+Experiment 1 demo and replays, and Experiment 2 replays in Bramley, Gerstenberg, Tenenbaum and Gureckis (2018).
+Pilot task in Bramley, Gersttenberg and Tenenbaum (2016)
+Coming soon: OpenAi Gym implementation and demo learning algorithms.
+Physics learning task: Interact with coloured pucks in a 2D world bounded by solid walls.</description>
     </item>
     
     <item>
@@ -603,22 +602,7 @@ if (dvdProcessorVolume &amp;lt; mpegProcess(slashdot, gigahertz)) { transferAnsi
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://bramleylab.github.io/research/</guid>
-      <description>Modo est Non sub haedum tenet Lorem markdownum esse diversa quoque vocavit, quam! Vires tibi axis dum spolium vaticinor fulminis, a dixere attrahit generisque tamen?
- Petit invergens iram praetendat iam Mecum res curva iunctura silvis hoc leonum Iacent gemitum quos  Non est duram mitis sonat proculcat tumulos Alce bimembres Dauni, cur ex voces referam adunco in sors. Manibusque poples prodidit lata tantum quem suos ratae Aeginae sederunt degenerat Bacchus descendere, patriisque ieiunia.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://bramleylab.github.io/research/all/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://bramleylab.github.io/research/all/</guid>
-      <description>Causal learning from contingencies demo, TODO just put the neilbramely.github.io/ ../time_intervene/demo paper
-Causal learning about events in time demo, create your own, paper
-Causal learning about continuous variables in time demo, link to paper
-Learning about physical objects demo, link to paper
-Control demo, link to paper
-Hypothesis generation demo, link to paper</description>
+      <description>Bramley Lab Research The goal of our research is to better understand the algorithms, processes and representations that underpin human intelligence. We generally approach this problem by developing computational theories of human learning representation and control. We design challenging and interactive tasks that distill elements of the challenges faced by natural cognition (see Demos) and have people and our models attempt to solve them. By comparing the behaviour of our models to that of people, we can gain insight into the mechanisms that people use to to solve problems and adapt their behaviour.</description>
     </item>
     
     <item>
