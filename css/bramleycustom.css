@@ -6,9 +6,9 @@
     clear: both;
 }
 
-#affiliates > .container > .row > .col-xs-4:nth-child(3n+1) {
+/*#affiliates > .container > .row > .col-xs-4:nth-child(3n+1) {
     clear: both;
-}
+}*/
 
 #article-title-custom {
 	color: #000000;
