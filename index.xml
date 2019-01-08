@@ -6,10 +6,19 @@
     <description>Recent content on Bramley Computational Cognitive Science Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; Neil Bramley, 2018. Banner photo credit Eric Schulz.</copyright>
-    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://bramleylab.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Testing one or multiple: Beliefs about sparsity affect causal experimentation</title>
+      <link>https://bramleylab.github.io/publication/in-revision-01-01_coenen2017sparsityjournal/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://bramleylab.github.io/publication/in-revision-01-01_coenen2017sparsityjournal/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A causal model approach to dynamic control</title>
@@ -62,15 +71,6 @@
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://bramleylab.github.io/publication/2018-01-01_bramley2018physics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Testing one or multiple: Beliefs about sparsity affect causal experimentation</title>
-      <link>https://bramleylab.github.io/publication/in-revision-01-01_coenen2017sparsityjournal/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://bramleylab.github.io/publication/in-revision-01-01_coenen2017sparsityjournal/</guid>
       <description></description>
     </item>
     
@@ -134,8 +134,8 @@
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
       
       <guid>https://bramleylab.github.io/member/neil/</guid>
-      <description>I am interested in higher level cognition, how we think about and represent the world and its alternatives and use these ability to plan, imagine, explain, blame and solve problems. In my PhD I studied how people use interventions (roughly, actions that &amp;ldquo;tinker&amp;rdquo; with the world) to learn about causal relationships in a range of simple environments.
-A major output of this work was a model of incremental, boundedly rational human learning in which wholesale belief change takes place through a sequence of local changes.</description>
+      <description>I am interested in higher level cognition, how we think about and represent the world and its alternatives and use these ability to plan, imagine, explain, blame and solve problems. I generally use interactive experiments and games combined with computational modelling to get at these questions.
+Much of my research has studied how people use interventions (roughly, actions that &amp;ldquo;tinker&amp;rdquo; with the world) to learn about causal relationships in a range of simple environments.</description>
     </item>
     
     <item>
@@ -612,6 +612,15 @@ if (dvdProcessorVolume &amp;lt; mpegProcess(slashdot, gigahertz)) { transferAnsi
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://bramleylab.github.io/publication/in-prep-01-01_bramley2018dynamic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Limits on the use of simulation in physical reasoning</title>
+      <link>https://bramleylab.github.io/publication/in-prep-01-01_peery2018limits/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bramleylab.github.io/publication/in-prep-01-01_peery2018limits/</guid>
       <description></description>
     </item>
     

@@ -6,10 +6,19 @@
     <description>Recent content in Publications on Bramley Computational Cognitive Science Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; Neil Bramley, 2018. Banner photo credit Eric Schulz.</copyright>
-    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://bramleylab.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Testing one or multiple: Beliefs about sparsity affect causal experimentation</title>
+      <link>https://bramleylab.github.io/publication/in-revision-01-01_coenen2017sparsityjournal/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://bramleylab.github.io/publication/in-revision-01-01_coenen2017sparsityjournal/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A causal model approach to dynamic control</title>
@@ -62,15 +71,6 @@
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://bramleylab.github.io/publication/2018-01-01_bramley2018physics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Testing one or multiple: Beliefs about sparsity affect causal experimentation</title>
-      <link>https://bramleylab.github.io/publication/in-revision-01-01_coenen2017sparsityjournal/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://bramleylab.github.io/publication/in-revision-01-01_coenen2017sparsityjournal/</guid>
       <description></description>
     </item>
     
@@ -215,6 +215,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://bramleylab.github.io/publication/in-prep-01-01_bramley2018dynamic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Limits on the use of simulation in physical reasoning</title>
+      <link>https://bramleylab.github.io/publication/in-prep-01-01_peery2018limits/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bramleylab.github.io/publication/in-prep-01-01_peery2018limits/</guid>
       <description></description>
     </item>
     
